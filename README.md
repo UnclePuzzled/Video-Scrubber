@@ -11,7 +11,7 @@ When you run the `.exe`, the first window lets you choose a video file.
 - Click **Go** to open the main video viewer.
 
 First window
-![First window]([https://github.com/username/repository/raw/main/images/your-image.jpg](https://github.com/UnclePuzzled/Video-Scrubber/blob/main/images/1.png))
+![First window](images/1.png)
 
 
 ## Frame scrubbing
