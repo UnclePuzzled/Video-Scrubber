@@ -11,6 +11,7 @@ When you run the `.exe`, the first window lets you choose a video file.
 - Click **Go** to open the main video viewer.
 
 First window
+
 ![First window](images/1.png)
 
 
@@ -24,7 +25,8 @@ In the main window, you can move through the video manually.
 - You can also jump to a specific time by entering seconds (e.g. `12.500`) into the **Time** field and hitting **Enter**.
 
 Second window
-![Second window]([https://github.com/username/repository/raw/main/images/your-image.jpg](https://github.com/UnclePuzzled/Video-Scrubber/blob/main/images/2.png))
+
+![Second window](images/2.png)
 
 ## Saving frames
 
