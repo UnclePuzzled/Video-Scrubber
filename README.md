@@ -10,6 +10,10 @@ When you run the `.exe`, the first window lets you choose a video file.
 - **Window Width** and **Window Height** let you set the size of the viewer window. If you're not sure, just leave the default values (800x600).
 - Click **Go** to open the main video viewer.
 
+First window
+![First window]([https://github.com/username/repository/raw/main/images/your-image.jpg](https://github.com/UnclePuzzled/Video-Scrubber/blob/main/images/1.png))
+
+
 ## Frame scrubbing
 
 In the main window, you can move through the video manually.
@@ -18,6 +22,9 @@ In the main window, you can move through the video manually.
 - Set how many frames to skip using the **Number of frames** field.
 - Use **Next** and **Previous** buttons to move forward or backward.
 - You can also jump to a specific time by entering seconds (e.g. `12.500`) into the **Time** field and hitting **Enter**.
+
+Second window
+![Second window]([https://github.com/username/repository/raw/main/images/your-image.jpg](https://github.com/UnclePuzzled/Video-Scrubber/blob/main/images/2.png))
 
 ## Saving frames
 
