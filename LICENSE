@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This software includes components licensed under the following open-source licenses:
+
+1. **OpenCV (cv2)**  
+2. **Pillow (Python Imaging Library)**  
+3. **tkinter**  
+
+These libraries are used as dependencies and remain under their respective licenses.
+The inclusion of these licenses does not imply endorsement by the original authors.
+
